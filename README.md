@@ -20,3 +20,7 @@ Use Google colaboratory to run the notebooks!
 ![](google_colab_screen_2.png)
 
 - Load the PyTorch_Example file first and then take a look at the linear regression lab!
+
+## Extension:
+
+- If you are curious as to how PyTorch (and similar libraries) work behind the scenes then please take a look at the Scalar Auto Grad Demo file!
