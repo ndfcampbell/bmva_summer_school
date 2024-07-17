@@ -24,3 +24,7 @@ Use Google colaboratory to run the notebooks!
 ## Extension:
 
 - If you are curious as to how PyTorch (and similar libraries) work behind the scenes then please take a look at the Scalar Auto Grad Demo file!
+
+## Advanced:
+
+- If you are already familiar with PyTorch then you may be interested in the advanced notebook on Vision Foundation Models kindly provided by [Li (Luis) Li](https://www.luisli.org); please see the instructions within the file, in particular using GPU acceleration when loading on the colab server.
