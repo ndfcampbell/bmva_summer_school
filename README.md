@@ -28,3 +28,5 @@ Use Google colaboratory to run the notebooks!
 ## Advanced:
 
 - If you are already familiar with PyTorch then you may be interested in the advanced notebook on Vision Foundation Models kindly provided by [Li (Luis) Li](https://www.luisli.org); please see the instructions within the file, in particular using GPU acceleration when loading on the colab server.
+
+- There is also a folder (`SimpleDiffusion`) with an example of a diffusion model kindly provided by [Teo Deveney](https://researchportal.bath.ac.uk/en/persons/teo-deveney); this is currently setup to run on your local machine but you can take the contents of train.py and sample.py to run in collab if you want - there is also a checkpoint to restore the weights from if you just want to run the sampler.
